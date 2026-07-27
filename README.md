@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -34,10 +35,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0844-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
