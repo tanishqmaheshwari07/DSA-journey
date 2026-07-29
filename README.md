@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
