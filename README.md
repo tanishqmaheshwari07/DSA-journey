@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0575-distribute-candies) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
