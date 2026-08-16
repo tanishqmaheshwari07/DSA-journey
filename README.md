@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1929-concatenation-of-array) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2235-add-two-integers) |
