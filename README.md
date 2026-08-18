@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2235-add-two-integers) |
 ## Hash Table
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1732-find-the-highest-altitude) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
