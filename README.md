@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0575-distribute-candies) |
+| [0904-fruit-into-baskets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
