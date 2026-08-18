@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1732-find-the-highest-altitude) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -135,9 +137,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
