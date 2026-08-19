@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -153,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
