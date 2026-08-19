@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
