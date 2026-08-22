@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
