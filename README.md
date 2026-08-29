@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0817-linked-list-components](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0817-linked-list-components) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
