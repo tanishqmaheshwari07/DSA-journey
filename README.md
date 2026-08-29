@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
+| [0817-linked-list-components](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0817-linked-list-components) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0575-distribute-candies) |
+| [0817-linked-list-components](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0817-linked-list-components](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0817-linked-list-components) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bracket Sequences
 |  |
