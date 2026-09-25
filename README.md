@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
