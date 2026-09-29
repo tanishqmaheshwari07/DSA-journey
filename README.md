@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3483-unique-3-digit-even-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
