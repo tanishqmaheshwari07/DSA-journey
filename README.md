@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
