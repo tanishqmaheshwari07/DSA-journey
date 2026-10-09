@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0414-third-maximum-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0451-sort-characters-by-frequency) |
@@ -279,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
