@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -294,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
