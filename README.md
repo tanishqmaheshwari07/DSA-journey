@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0412-fizz-buzz) |
