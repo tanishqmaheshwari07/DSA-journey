@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0713-subarray-product-less-than-k) |
