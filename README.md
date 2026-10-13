@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0151-reverse-words-in-a-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0414-third-maximum-number) |
