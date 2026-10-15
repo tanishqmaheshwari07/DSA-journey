@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -321,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0933-number-of-recent-calls) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
