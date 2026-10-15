@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0206-reverse-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0206-reverse-linked-list) |
 | [0817-linked-list-components](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
