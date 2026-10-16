@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0414-third-maximum-number) |
@@ -331,4 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tanishqmaheshwari07/DSA-journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
